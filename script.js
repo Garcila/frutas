@@ -6,7 +6,6 @@ function populatePage () {
       <img src=${item.image}
         alt="${item.name}"
         srcset=""
-
       />
       <div class='card'>
       <figcaption>español ->  ${item.nombre}</figcaption>
